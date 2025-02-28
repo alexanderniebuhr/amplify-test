@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "routes": [],
+  "computeResources": [
+    {}
+  ],
+  "framework": {
+    "name": "astro",
+    "version": "5.4.0"
+  }
+}
