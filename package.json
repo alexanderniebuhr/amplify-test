@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "amplify-test",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,7 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@craftlions/astro-adapter": "1.0.1",
+    "@craftlions/astro-adapter": "1.0.2",
     "astro": "^5.4.0"
   }
 }
