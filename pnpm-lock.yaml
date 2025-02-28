@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@craftlions/astro-adapter':
-        specifier: 1.0.2
-        version: 1.0.2(astro@5.4.0(rollup@4.34.8)(typescript@5.7.3))
+        specifier: 1.0.3
+        version: 1.0.3(astro@5.4.0(rollup@4.34.8)(typescript@5.7.3))
       astro:
         specifier: ^5.4.0
         version: 5.4.0(rollup@4.34.8)(typescript@5.7.3)
@@ -56,8 +56,8 @@ packages:
     resolution: {integrity: sha512-Y3IR1cRnOxOCDvMmNiym7XpXQ93iGDDPHx+Zj+NM+rg0fBaShfQLkg+hKPaZCEvg5N/LeCo4+Rj/i3FuJsIQaw==}
     engines: {node: '>=6.9.0'}
 
-  '@craftlions/astro-adapter@1.0.2':
-    resolution: {integrity: sha512-bKHADlj2n/q0VPGyS4L0gSYjRe8Itbvfk2Kl9o38kcRW7d4qxu8vSzbIiaT5OK57DDCMXhcYDL6r0D3aCdOB1A==}
+  '@craftlions/astro-adapter@1.0.3':
+    resolution: {integrity: sha512-NtCgGf7mM6yV8JqdtEQiEiyQgja7q/oFdwCtyxLOENhgXC7lHHPWhKRwovLcXhp/SSICTCJ+aHGPIbJ278GWdQ==}
     peerDependencies:
       astro: ^5.0.0
 
@@ -1594,7 +1594,7 @@ snapshots:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
 
-  '@craftlions/astro-adapter@1.0.2(astro@5.4.0(rollup@4.34.8)(typescript@5.7.3))':
+  '@craftlions/astro-adapter@1.0.3(astro@5.4.0(rollup@4.34.8)(typescript@5.7.3))':
     dependencies:
       '@astrojs/node': 9.1.2(astro@5.4.0(rollup@4.34.8)(typescript@5.7.3))
       astro: 5.4.0(rollup@4.34.8)(typescript@5.7.3)
