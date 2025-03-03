@@ -3,8 +3,5 @@ import { defineConfig } from 'astro/config';
 import amplify from "@craftlions/astro-adapter";
 // https://astro.build/config
 export default defineConfig({
-  server: {
-    port: 3000
-  },
-  adapter: amplify()
+    adapter: amplify()
 });
