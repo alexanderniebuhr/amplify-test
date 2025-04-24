@@ -8,6 +8,9 @@ frontend:
     build:
       commands:
         - pnpm run build
+        - cp package.json ./.amplify-hosting/compute/default/package.json
+        - cd .amplify-hosting/compute/default/
+        - pnpm install --production
   artifacts:
     baseDirectory: .amplify-hosting
     files:
