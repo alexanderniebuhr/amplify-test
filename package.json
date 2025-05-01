@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@astrojs/vue": "^5.0.11",
-    "@craftlions/astro-adapter": "1.9.0",
+    "@craftlions/astro-adapter": "1.9.2",
     "@tailwindcss/vite": "^4.1.4",
     "astro": "^5.4.0",
     "tailwindcss": "^4.1.4",
